@@ -5982,7 +5982,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "User_Footprints:xiao-ble-smd-cutout-nfc"
+		(property "Footprint" "Project:xiao-ble-smd-cutout-nfc"
 			(at 54.61 35.56 0)
 			(effects
 				(font
@@ -6108,7 +6108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_CK_KMS2xxG"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_CK_KMS2xxGP"
 			(at 68.58 17.78 0)
 			(effects
 				(font
